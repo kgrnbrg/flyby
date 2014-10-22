@@ -11,3 +11,5 @@ Links
 * [Learn Python the Hard Way](http://learnpythonthehardway.org/)
 * [Python Data Structures](https://docs.python.org/2/tutorial/datastructures.html)
 * [Reddit r/learnpython](http://www.reddit.com/r/learnpython)
+* [Natural Language Toolkit](http://www.nltk.org)
+* [NodeBox Linguistics (NLTK Extension)](http://nodebox.net/code/index.php/Linguistics)
