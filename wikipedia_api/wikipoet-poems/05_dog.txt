@@ -1,0 +1,83 @@
+dog
+animated dog
+successful, hot dog
+stock, rude, small dog
+dead, vicious, powerful, other dog
+dog house, dog look, dog behavior
+dog print, dog services, dog term
+dog gene
+gene
+underlying gene
+given, other gene
+discovered, global, few gene
+complex, actual, near, upstream gene
+gene centre, gene type, gene pair
+gene protein, gene leading, gene sharp
+gene source
+source
+tertiary source
+confidential, expert source
+published, easy, cheap source
+documentary, positive, satellite, young source
+source discharge, source game, source result
+source type, source light, source vector
+source house
+house
+short house
+renowned, private house
+straight, pet, related house
+typical, skinny, late, historical house
+house increase, house remains, house underground
+house reading, house serve, house track
+house funding
+funding
+private funding
+early, indirect funding
+high, secret, online funding
+other, long-term, short-term, such funding
+funding drive, funding agency, funding process
+funding author, funding requirement, funding private
+funding research
+research
+limited research
+several, real research
+small, following, linked research
+open, modern, earliest, recognised research
+research report, research movement, research discussion
+research speech, research example, research focus
+research science
+science
+italian science
+separate, heavy science
+world-class, high, technical science
+legal, specific, through, observational science
+science teaching, science aid, science citation
+science theatre, science note, science close
+science sociology
+sociology
+more sociology
+international, western sociology
+american, european, traditional sociology
+pure, introductory, new, broad sociology
+sociology terms, sociology practice, sociology works
+sociology examination, sociology reason, sociology science
+sociology review
+review
+common review
+average, proper review
+middling, white, secret review
+other, sound, blank, integral review
+review news, review are, review annual
+review total, review content, review critical review
+review part
+part
+spare part
+unknown, private part
+relevant, young, definitive part
+new, individual, classical, all part
+part record, part can, part word
+part section, part mass, part actor
+part classical
+
+
+ ~wikipoet
