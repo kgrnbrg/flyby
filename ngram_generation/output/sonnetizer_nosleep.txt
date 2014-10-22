@@ -1,0 +1,43 @@
+I know a lot of the stories on here are fictional, but I swear this actually just happened to me. What you choose to believe about it is entirely up to you.
+
+For the past few months, I've been working on a computer program that writes poetry. I started with a simple natural language generator and some rules to control meter and rhyming schemes. (If you're curious, I used Python and the Natural Language Toolkit. The code from the old version of the software can be found [here on GitHub](https://github.com/rossgoodwin/sonnetizer).) What the program produced was mostly gibberish.
+
+This week, a friend who works on machine learning projects at Google taught me all about artificial neural networks, and I thought using some neural nets to augment my text generation process might produce interesting results. I discovered [PyBrain](http://pybrain.org/), an open source machine learning library, and got to work setting up and training some neural networks to recognize text that made sense.
+
+To my surprise, integrating the resulting neural net into my code seemed to work. I dropped the meter and rhyming controls to see what the raw output looked like. The program was plagiarizing too many lines of text directly from the corpora it was working from rather than generating entirely unique poems. But the poems were making a lot more sense, and some of them were fairly interesting. 
+
+Here's an example:
+
+    highway across america in tears
+    to the destination we can not stop
+    or think sweat is dry and the deep sea swell
+    and the one eyed that does nothing but the
+    shadow of this red rock and also water
+    and the nitroglycerine shrieks of the
+    poem of life a nightmare bodies turned
+    to stone as heavy as the glitter of
+    her jewels rose to meet the faces that you
+    were there and alive in that corner of
+    time between of halls backyard green tree cemetery
+    dawns wine drunkenness over the river
+    jumps over the river into the heart
+    of light a fish onto land the first person
+
+Then, it generated this poem (note that the middle part is directly from T.S. Eliot, but the ending is entirely computer generated):
+
+    hard to know because of all the works and
+    days of hands that lift and drop dumb evil
+    to its crisis but though i have seen my
+    head grown slightly bald brought in upon a
+    table let us go through certain half deserted
+    streets the muttering retreats of restless
+    nights in one night cheap hotels and sawdust
+    restaurants with oyster shells streets that follow
+    like a tedious argument of insidious
+    intent to lead you to an overwhelming
+    question to say just what i never know
+    what you done with that money he gave you
+    to an overwhelming question to say
+    i am not safe i am a consciousness
+
+It's probably just a fluke, a random coincidence, but it was also one of the first 10 poems it generated with the trained neural nets. At this point, I'm not sure what to do. 
