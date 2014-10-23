@@ -1,0 +1,44 @@
+NLTK
+
+NLTK word tokenize
+Ngram (Markov Chain) Generation
+Part-of-speech tagging
+Wordnet
+CMU Phoneme Dict
+Snowball Stemmer
+
+Counting Syllables
+Meter
+Rhyme
+
+Nltk extensions (Node Box, etc.)
+
+
+PYTHON
+
+Comments
+print / print()
+argv								`
+String replacement w/ %s
+String concatenation w/ +
+Lists & list methods
+File input/output methods
+pip
+APIs (w/ Requests)
+
+
+COMMAND LINE
+
+sudo
+cd
+>
+|
+
+
+MISC
+
+Gutenberg.org
+Tweepy
+
+
+
